@@ -1,0 +1,2 @@
+[30-Mar-2017 16:40:07 UTC] PHP Fatal error:  Class 'User' not found in /home/bueze/public_html/register/Verify/index.php on line 9
+[30-Mar-2017 22:44:55 UTC] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bueze/public_html/actions/User.php on line 52

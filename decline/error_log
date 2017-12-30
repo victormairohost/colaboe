@@ -1,0 +1,2 @@
+[01-Apr-2017 14:59:40 UTC] PHP Fatal error:  Call to undefined method User::deecline() in /home/bueze/public_html/decline/index.php on line 15
+[01-Apr-2017 14:59:47 UTC] PHP Fatal error:  Call to undefined method User::deecline() in /home/bueze/public_html/decline/index.php on line 15

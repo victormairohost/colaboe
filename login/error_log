@@ -1,0 +1,1 @@
+[30-Mar-2017 09:20:48 UTC] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bueze/public_html/actions/User.php on line 52

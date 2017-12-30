@@ -1,0 +1,10 @@
+[02-Apr-2017 19:50:53 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (1491162653) at position 7 (6): Unexpected character' in /home/bueze/public_html/dashboard/invest/index.php:110
+Stack trace:
+#0 /home/bueze/public_html/dashboard/invest/index.php(110): DateTime->__construct('1491162653')
+#1 {main}
+  thrown in /home/bueze/public_html/dashboard/invest/index.php on line 110
+[02-Apr-2017 20:01:08 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/bueze/public_html/dashboard/invest/index.php on line 112
+[02-Apr-2017 20:02:21 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/bueze/public_html/dashboard/invest/index.php on line 112
+[02-Apr-2017 20:04:44 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/bueze/public_html/dashboard/invest/index.php on line 112
+[03-Apr-2017 09:44:58 UTC] PHP Fatal error:  Call to a member function getPayee() on a non-object in /home/bueze/public_html/dashboard/invest/index.php on line 93
+[13-Apr-2017 09:05:58 UTC] PHP Fatal error:  Call to a member function getPayee() on a non-object in /home/bueze/public_html/dashboard/invest/index.php on line 97
