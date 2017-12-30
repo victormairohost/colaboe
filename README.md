@@ -1,4 +1,4 @@
-# colaboe #
+# Colaboe #
 
 # Import the 'colaboe.sql' file in the main directory into the local MySQL server. #
 
